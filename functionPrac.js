@@ -18,7 +18,11 @@ let c = 30;
 
 console.log (toFarenheit(c))
 
-function toKelvin (k){
+function CtoKelvin (k){
     return c + 273.15;
 }
+
+let k = 35
+console.log (CtoKelvin(k))
+
 
