@@ -14,6 +14,11 @@ function toFarenheit (c){
 
 }
 
-let c = 25;
+let c = 30;
 
 console.log (toFarenheit(c))
+
+function toKelvin (k){
+    console.log ('practice')
+}
+
